@@ -1,2 +1,2 @@
-# just-another-to-do-list
-Just another To-Do List, inspired by code from my ENTJAVA class
+# Just Another To-Do List App...
+A To-Do List, inspired by code from my ENTJAVA class
